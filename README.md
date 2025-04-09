@@ -1,10 +1,5 @@
 # Resume Analyzer API - Setup and Deployment Guide
 
-## Table of Contents
-1. [Prerequisites](#prerequisites)
-2. [Setup Instructions](#setup-instructions)
-3. [Running the Application](#running-the-application)
-4. [API Documentation](#api-documentation)
 
 
 ## Prerequisites
