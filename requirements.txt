@@ -2,7 +2,11 @@ fastapi
 uvicorn
 python-dotenv
 google-generativeai
-PyPDF2
-python-docx
-Pillow
+PyPDF
+python-docx.11
+pillow
+python-multipart
+pydantic
 pytesseract
+pydantic-settings
+httpx
