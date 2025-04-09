@@ -5,9 +5,7 @@
 2. [Setup Instructions](#setup-instructions)
 3. [Running the Application](#running-the-application)
 4. [API Documentation](#api-documentation)
-5. [Testing the API](#testing-the-api)
-6. [Deployment Options](#deployment-options)
-7. [Troubleshooting](#troubleshooting)
+
 
 ## Prerequisites
 
